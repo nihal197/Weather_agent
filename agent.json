@@ -1,0 +1,29 @@
+{
+  "description": "",
+  "language": "en",
+  "enabledDomainFeatures": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1"
+  },
+  "defaultTimezone": "",
+  "webhook": {
+    "url": "",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.2,
+  "onePlatformApiVersion": "v2"
+}
